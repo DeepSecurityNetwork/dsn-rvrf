@@ -84,7 +84,7 @@ dependencies = [
 [[package]]
 name = "curve25519-dalek"
 version = "2.1.3"
-source = "git+https://github.com/DeepSecurityNetwork/curve25519-dalek.git?branch=deep#3aeb74399316cdb355183fb8c01e458933901990"
+source = "git+https://github.com/safexn/curve25519-dalek.git?branch=deep#3aeb74399316cdb355183fb8c01e458933901990"
 dependencies = [
  "byteorder",
  "digest 0.8.1",
@@ -306,7 +306,7 @@ dependencies = [
 [[package]]
 name = "polynomials"
 version = "0.2.4"
-source = "git+https://github.com/DeepSecurityNetwork/polynomials.git?branch=deep#448cd42c4afc5b5ae9cc5795f5a147ed4806b10b"
+source = "git+https://github.com/safexn/polynomials.git?branch=deep#448cd42c4afc5b5ae9cc5795f5a147ed4806b10b"
 dependencies = [
  "serde",
 ]
